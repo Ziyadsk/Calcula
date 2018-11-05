@@ -1,0 +1,19 @@
+.root{
+	-fx-background-color:#eee;
+	-fx-font-family:monospace;
+}
+
+.button{
+	-fx-font-size:30px;
+	-fx-width:200px;
+	-fx-background-color:teal;
+	-fx-text-fill:#ffffff;
+}
+
+.label {
+	-fx-height:100px;
+	-fx-font-size:40px;
+	-fx-text-fill: #666666 ; 
+
+
+}
